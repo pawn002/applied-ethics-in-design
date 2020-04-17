@@ -1,5 +1,20 @@
 # Applied Ethics in Design
 
+## Scope
+
+This framework strives to apply immediately to what most people judge as design, design is increasingly multidisclipine and as such this frame work will often dive into topics not typically tracked as design to provide context and validation of core tenets and judgments.
+
+## Rules of the Road (How to Contribute)
+
+- Avoid personal attacks.
+
+- Give benefit of the doubt.
+
+- Assume you are biased and able to exercise more due diligence than you currently think you can.
+
+- Everything is open to critical dissection.
+
+----
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
