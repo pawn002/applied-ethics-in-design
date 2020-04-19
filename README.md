@@ -14,6 +14,8 @@ This framework strives to apply immediately to what most people judge as design,
 
 - Everything is open to critical dissection.
 
+- Words should not change meaning to avoid misunderstanding as it is too common for a word to have multiple meanings in the same conversation.
+
 ----
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
